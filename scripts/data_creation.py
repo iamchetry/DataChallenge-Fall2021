@@ -5,6 +5,10 @@ from sklearn.model_selection import train_test_split
 
 
 def get_necessary_data():
+    '''
+
+    :return: Train & Test splits of data,  Scaled value of target Density, Mean & Standard Deviation of Target Density
+    '''
     molecules, target, dragon_subset = load_organic_density()
 
     X_train, X_test, y_train, y_test = train_test_split(dragon_subset, target, test_size=0.25,

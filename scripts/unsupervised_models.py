@@ -8,6 +8,11 @@ from yellowbrick.cluster import KElbowVisualizer
 
 
 def principal_component_analysis(dragon_subset):
+    '''
+
+    :param dragon_subset: Input Feature for Dragon data
+    :return: Variance Captured across Principal Components
+    '''
     pipeline = Pipeline([('scaling', StandardScaler()), ('pca', PCA(n_components=200))])
 
     X_PC = pipeline.fit_transform(dragon_subset)
@@ -20,6 +25,12 @@ def principal_component_analysis(dragon_subset):
 
 
 def kmeans(dragon_subset, target):
+    '''
+
+    :param dragon_subset: Input Feature for Dragon data
+    :param target: Output Feature (Density)
+    :return: Data-Frame with Clusters
+    '''
     scaler_ = StandardScaler()
     scaler_.fit(dragon_subset)
     x_scaled = scaler_.transform(dragon_subset)

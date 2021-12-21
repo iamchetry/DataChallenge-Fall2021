@@ -9,6 +9,17 @@ from sklearn.model_selection import cross_val_score
 
 
 def lasso_regression(X_train, y_train, X_test, y_test, y_train_scaled, target_mean, target_std):
+    '''
+
+    :param X_train: Input Feature data for Train
+    :param y_train: Output feature for Train (Density)
+    :param X_test: Input Feature data for Test
+    :param y_test: Output feature for Test (Density)
+    :param y_train_scaled: Scaled output for Train (Scaled Density)
+    :param target_mean: Mean of output feature (Density)
+    :param target_std: Standard Deviation of output feature (Density)
+    :return: Dumps the Actual v/s Predicted Values and LASSO Coefficients in csv
+    '''
     lasso_model = Lasso(alpha=0.1)
     lasso_model.fit(X_train.values, y_train_scaled.values)
 
@@ -35,6 +46,13 @@ def lasso_regression(X_train, y_train, X_test, y_test, y_train_scaled, target_me
 
 
 def objective_fn_rfr(params, X_train, y_train_scaled):
+    '''
+
+    :param params: Hyper-parameter Grid
+    :param X_train: Input Feature data for Train
+    :param y_train_scaled: Scaled output for Train (Scaled Density)
+    :return: Score value
+    '''
     global it_, scores_
     params = {
         'max_depth': int(params['max_depth']),
@@ -61,6 +79,13 @@ def objective_fn_rfr(params, X_train, y_train_scaled):
 
 
 def objective_fn_xgb(params, X_train, y_train_scaled):
+    '''
+
+    :param params: Hyper-parameter Grid
+    :param X_train: Input Feature data for Train
+    :param y_train_scaled: Scaled output for Train (Scaled Density)
+    :return: Score value
+    '''
     global it_, scores_
     params = {
         'max_depth': int(params['max_depth']),
@@ -84,6 +109,10 @@ def objective_fn_xgb(params, X_train, y_train_scaled):
 
 
 def xgb_model():
+    '''
+
+    :return: Minimized Loss Function
+    '''
     space = {
         'max_depth': hp.choice('max_depth', [5, 7, 10]),
         'n_estimators': hp.choice('n_estimators', [50, 100, 150, 200]),
@@ -94,6 +123,10 @@ def xgb_model():
 
 
 def random_forest_model():
+    '''
+
+    :return: Minimized Loss Function
+    '''
     space = {
         'max_depth': hp.choice('max_depth', [5, 7, 10]),
         'n_estimators': hp.choice('n_estimators', [50, 125, 200]),
@@ -107,6 +140,12 @@ def random_forest_model():
 
 
 def dump_xgboost_model(X_train, y_train_scaled):
+    '''
+
+    :param X_train: Input Feature data for Train
+    :param y_train_scaled: Scaled output for Train (Scaled Density)
+    :return: Dumps XGBOOST trained model
+    '''
     params = {'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
     model_ = XGBRegressor(**params)
     model_.fit(X_train, y_train_scaled, verbose=True)
@@ -115,6 +154,12 @@ def dump_xgboost_model(X_train, y_train_scaled):
 
 
 def dump_random_forest_model(X_train, y_train_scaled):
+    '''
+
+    :param X_train: Input Feature data for Train
+    :param y_train_scaled: Scaled output for Train (Scaled Density)
+    :return: Dumps Random Forest trained model
+    '''
     params = {'max_depth': 10, 'n_estimators': 50, 'min_samples_split': 2, 'min_samples_leaf': 1,
               'max_features': 'auto', 'oob_score': True, 'max_samples': 200}
     model_ = RFR(**params)
@@ -124,6 +169,17 @@ def dump_random_forest_model(X_train, y_train_scaled):
 
 
 def load_and_predict(model_object_path, target_mean, target_std, X_train, X_test, y_train, y_test):
+    '''
+
+    :param model_object_path: Path to model object pickle
+    :param target_mean: Mean of output feature (Density)
+    :param target_std: Standard Deviation of output feature (Density)
+    :param X_train: Input Feature data for Train
+    :param X_test: Input Feature data for Test
+    :param y_train: Output feature for Train (Density)
+    :param y_test: Output feature for Test (Density)
+    :return: Actual v/s Predicted values for Train & Test
+    '''
     with open(model_object_path, 'rb') as input_file:
         model_obj = pickle.load(input_file)
 
@@ -138,6 +194,12 @@ def load_and_predict(model_object_path, target_mean, target_std, X_train, X_test
 
 
 def get_feature_importance(model_object_path, X_train):
+    '''
+
+    :param model_object_path: Path to model object pickle
+    :param X_train: Input Feature data for Train
+    :return: Feature Importance Data-Frame
+    '''
     with open(model_object_path, 'rb') as input_file:
         model_obj = pickle.load(input_file)
 

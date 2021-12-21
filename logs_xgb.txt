@@ -1,0 +1,825 @@
+------------------- On 1 ------------------
+Params : {'max_depth': 7, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.7467909965401431
+------------------- On 2 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.5310690386781651
+------------------- On 3 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 0.1}
+RMSE : 0.5560314481800133
+------------------- On 4 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.1, 'reg_lambda': 0.1}
+RMSE : 0.5226715010123474
+------------------- On 5 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.5404509429501586
+------------------- On 6 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.422188507034742
+------------------- On 7 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.5547121662219631
+------------------- On 8 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3761451382915151
+------------------- On 9 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.38010988600920986
+------------------- On 10 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.5325371031710839
+------------------- On 11 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.43054228841132164
+------------------- On 12 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.5}
+RMSE : 0.37547285490405247
+------------------- On 13 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 14 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 15 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.5}
+RMSE : 0.36215460721155895
+------------------- On 16 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.42983617573417937
+------------------- On 17 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.5676781915290783
+------------------- On 18 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.40194398623906397
+------------------- On 19 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 20 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 21 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.7444394415620266
+------------------- On 22 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 23 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 24 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.7444394415620266
+------------------- On 25 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 26 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 27 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 1}
+RMSE : 0.4303532576000284
+------------------- On 28 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 29 ------------------
+Params : {'max_depth': 10, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.749518809007242
+------------------- On 30 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.7317729040814738
+------------------- On 31 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 32 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 33 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 1}
+RMSE : 0.4394503976046961
+------------------- On 34 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.35602461191815504
+------------------- On 35 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 36 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.1}
+RMSE : 0.3825373443303379
+------------------- On 37 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.5200724166218496
+------------------- On 38 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3761451382915151
+------------------- On 39 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.40264815708525437
+------------------- On 40 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.5306050345631673
+------------------- On 41 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.37631000888768873
+------------------- On 42 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 43 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.5476911025403203
+------------------- On 44 ------------------
+Params : {'max_depth': 7, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.7335781491144711
+------------------- On 45 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 1, 'reg_lambda': 0.1}
+RMSE : 0.4453060656641837
+------------------- On 46 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.35602461191815504
+------------------- On 47 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 48 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5243103017043491
+------------------- On 49 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 50 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.4411331482656321
+------------------- On 51 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 52 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.3870057591891554
+------------------- On 53 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.5186502270595827
+------------------- On 54 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.7316821388038504
+------------------- On 55 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 56 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.40194398623906397
+------------------- On 57 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.4370889922172926
+------------------- On 58 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.5}
+RMSE : 0.37641325488604166
+------------------- On 59 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 60 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.7542099833027482
+------------------- On 61 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 0.1}
+RMSE : 0.5539023066858948
+------------------- On 62 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.38418640353856104
+------------------- On 63 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.3870057591891554
+------------------- On 64 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.4293507323321948
+------------------- On 65 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 1, 'reg_lambda': 0.1}
+RMSE : 0.7590271670090165
+------------------- On 66 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 67 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 68 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 69 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 70 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 71 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 72 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.35782396025178465
+------------------- On 73 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 74 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 75 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 76 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 77 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.5547121662219631
+------------------- On 78 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 79 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.431347440992608
+------------------- On 80 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 81 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 82 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 83 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.5547121662219631
+------------------- On 84 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 85 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.431347440992608
+------------------- On 86 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 87 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 88 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 89 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.37195150223093687
+------------------- On 90 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5243103017043491
+------------------- On 91 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 92 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 1}
+RMSE : 0.43523780252561894
+------------------- On 93 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 94 ------------------
+Params : {'max_depth': 10, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.746205638741334
+------------------- On 95 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.37195150223093687
+------------------- On 96 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.3936991816009814
+------------------- On 97 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.5476911025403203
+------------------- On 98 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 99 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.4199367678237059
+------------------- On 100 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.38418640353856104
+------------------- On 101 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.7570263063804314
+------------------- On 102 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3754172619095006
+------------------- On 103 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 104 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 105 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 106 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.43054228841132164
+------------------- On 107 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3615044147705222
+------------------- On 108 ------------------
+Params : {'max_depth': 7, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.7335781491144711
+------------------- On 109 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 110 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.37195150223093687
+------------------- On 111 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.5325371031710839
+------------------- On 112 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 113 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 114 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 1}
+RMSE : 0.43523780252561894
+------------------- On 115 ------------------
+Params : {'max_depth': 7, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.7335781491144711
+------------------- On 116 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 117 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.5}
+RMSE : 0.37641325488604166
+------------------- On 118 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 119 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.52685435831817
+------------------- On 120 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3615044147705222
+------------------- On 121 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4264264996107729
+------------------- On 122 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 123 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.5}
+RMSE : 0.36215460721155895
+------------------- On 124 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.37195150223093687
+------------------- On 125 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 126 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.5476911025403203
+------------------- On 127 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.3936991816009814
+------------------- On 128 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.4199367678237059
+------------------- On 129 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.7463271677549405
+------------------- On 130 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 131 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.3822739903754364
+------------------- On 132 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3615044147705222
+------------------- On 133 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5243103017043491
+------------------- On 134 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 135 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.41911798560801933
+------------------- On 136 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 137 ------------------
+Params : {'max_depth': 10, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.723870448496829
+------------------- On 138 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 139 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.3936991816009814
+------------------- On 140 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 141 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 142 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.4199367678237059
+------------------- On 143 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.382410982132648
+------------------- On 144 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.7542099833027482
+------------------- On 145 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.1}
+RMSE : 0.3789861287966161
+------------------- On 146 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 147 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 148 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 149 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 150 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 151 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 152 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 153 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 154 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 155 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 156 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 157 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 158 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 159 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 160 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 161 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 162 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 163 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4313486768640321
+------------------- On 164 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.746876296137392
+------------------- On 165 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.38533370676604306
+------------------- On 166 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 167 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 168 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.5325371031710839
+------------------- On 169 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 170 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 171 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4313486768640321
+------------------- On 172 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.746876296137392
+------------------- On 173 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.38533370676604306
+------------------- On 174 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 175 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 176 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 177 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 178 ------------------
+Params : {'max_depth': 10, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.43054228841132164
+------------------- On 179 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.1}
+RMSE : 0.7337362846119719
+------------------- On 180 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.3936991816009814
+------------------- On 181 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 182 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 183 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 184 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 185 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.38418640353856104
+------------------- On 186 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4053302045477258
+------------------- On 187 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.35782396025178465
+------------------- On 188 ------------------
+Params : {'max_depth': 7, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7252367820200383
+------------------- On 189 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 190 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 191 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.52685435831817
+------------------- On 192 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 193 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 194 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4264264996107729
+------------------- On 195 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.35782396025178465
+------------------- On 196 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 197 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 198 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 199 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 200 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 201 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.5}
+RMSE : 0.43962872547370707
+------------------- On 202 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 203 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.1}
+RMSE : 0.3488320876065675
+------------------- On 204 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 205 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3615044147705222
+------------------- On 206 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 207 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.37195150223093687
+------------------- On 208 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5243103017043491
+------------------- On 209 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 210 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 211 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.422188507034742
+------------------- On 212 ------------------
+Params : {'max_depth': 10, 'n_estimators': 50, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.7310704212111677
+------------------- On 213 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 214 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 215 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 216 ------------------
+Params : {'max_depth': 7, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5243103017043491
+------------------- On 217 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 218 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.5}
+RMSE : 0.41911798560801933
+------------------- On 219 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3570628537146444
+------------------- On 220 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 221 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.7316821388038504
+------------------- On 222 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3615044147705222
+------------------- On 223 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.38010988600920986
+------------------- On 224 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 225 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 226 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4053302045477258
+------------------- On 227 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.3723419502605008
+------------------- On 228 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.1}
+RMSE : 0.34395282020067863
+------------------- On 229 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 230 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3754172619095006
+------------------- On 231 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.37195150223093687
+------------------- On 232 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 233 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.5325371031710839
+------------------- On 234 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.40993234203067996
+------------------- On 235 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.3481910101332314
+------------------- On 236 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.422188507034742
+------------------- On 237 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.3936991816009814
+------------------- On 238 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.7680533099909826
+------------------- On 239 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 240 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 241 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 242 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.38418640353856104
+------------------- On 243 ------------------
+Params : {'max_depth': 5, 'n_estimators': 150, 'reg_alpha': 0.5, 'reg_lambda': 0.01}
+RMSE : 0.4199367678237059
+------------------- On 244 ------------------
+Params : {'max_depth': 7, 'n_estimators': 200, 'reg_alpha': 0.1, 'reg_lambda': 0.1}
+RMSE : 0.37632533144421354
+------------------- On 245 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 246 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 1}
+RMSE : 0.3804194468762494
+------------------- On 247 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 248 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 249 ------------------
+Params : {'max_depth': 10, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.52685435831817
+------------------- On 250 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.5}
+RMSE : 0.35491872139184466
+------------------- On 251 ------------------
+Params : {'max_depth': 7, 'n_estimators': 150, 'reg_alpha': 0.1, 'reg_lambda': 0.01}
+RMSE : 0.4264264996107729
+------------------- On 252 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.5, 'reg_lambda': 0.1}
+RMSE : 0.35782396025178465
+------------------- On 253 ------------------
+Params : {'max_depth': 5, 'n_estimators': 50, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.7275419357928987
+------------------- On 254 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 1}
+RMSE : 0.3615044147705222
+------------------- On 255 ------------------
+Params : {'max_depth': 10, 'n_estimators': 200, 'reg_alpha': 1, 'reg_lambda': 0.01}
+RMSE : 0.3822739903754364
+------------------- On 256 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 257 ------------------
+Params : {'max_depth': 5, 'n_estimators': 100, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.5121519103380304
+------------------- On 258 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 259 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 260 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 261 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 262 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 263 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 264 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 265 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 266 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 267 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 268 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 269 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 270 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 271 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 272 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 273 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 274 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
+------------------- On 275 ------------------
+Params : {'max_depth': 5, 'n_estimators': 200, 'reg_alpha': 0.01, 'reg_lambda': 0.01}
+RMSE : 0.343347484427371
