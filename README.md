@@ -27,5 +27,5 @@ Project Structure :
 3. scripts/ : Contains .py files for Plotly Functions, Data Creation, Supervised & Unsupervised methods
 4. logs_rf.txt : Contains logs while training Random Forest Regressor using Hyper-parameter Tuning
 5. logs_xgb.txt : Contains logs while training XGBOOST Regressor using Hyper-parameter Tuning
-6. modelling_main.ipynb : Contains Analysis & Visualization
+6. modelling_main.ipynb : Contains Analysis & Visualization (Used during the Live Demo)
 7. data_dump.py : Contains code for importing Dragon dataset from ChemML library and dumping as csv
